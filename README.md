@@ -14,10 +14,9 @@ funciona
 
 ## Demonstração
 
+<img src="assets/tela_inicial.jpeg" width="300">
 
-![Captura de tela do app](./assets/tela_inicial.jpeg)
-
-![Captura de tela do app](./assets/imagem2.jpeg)
+<img src="assets/imagem2.jpeg" width="300">
 
 ---
 
