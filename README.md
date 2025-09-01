@@ -14,9 +14,10 @@ funciona
 
 ## Demonstração
 
-<img src="assets/tela_inicial.jpeg" width="300">
-
-<img src="assets/imagem2.jpeg" width="300">
+<p align="center">
+  <img src="assets/tela_inicial.jpeg" width="200" style="margin-right:10px;" />
+  <img src="assets/imagem2.jpeg" width="200" />
+</p>
 
 ---
 
