@@ -31,6 +31,10 @@ funciona
 
 ## Instalação
 
+### Baixar APK
+
+[Download](https://github.com/Jovito5s9/app_de_listas/releases/tag/v0.1)
+
 ### Pré-requisitos
 
 - Ter o [Python](https://www.python.org/downloads/) instalado (versão 3.10 ou superior recomendada)
