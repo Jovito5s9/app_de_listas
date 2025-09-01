@@ -6,3 +6,13 @@ __pycache__/
 dist/
 *.log
 .kivy
+.idea/
+.vscode/
+*.apk
+*.spec
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+myenv/
